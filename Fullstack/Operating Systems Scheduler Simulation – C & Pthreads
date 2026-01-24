@@ -1,0 +1,1 @@
+Developed a process scheduler simulation in C using pthreads, implementing FCFS, Round Robin, and Multilevel Feedback Queue algorithms. Managed fixed-size memory, enforced mutual exclusion with custom mutexes, and built a real-time GUI to visualize process execution and system state. 
