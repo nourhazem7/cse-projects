@@ -1,0 +1,1 @@
+Developed a lightweight database management system in Java with support for bitmap indexing, index-based querying, and page-level data recovery. Implemented core functionalities including record validation, index creation, and trace logging. Used object-oriented design and file-based storage for managing tables, indices, and data recovery.  
