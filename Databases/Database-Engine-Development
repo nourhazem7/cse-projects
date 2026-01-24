@@ -1,0 +1,1 @@
+Built a robust database engine in Java supporting SQL-based table creation, data insertion, and deletion with sorted data handling. Designed and implemented a sparse indexing system to enhance search performance and coded DDL/DML operations for efficient data management and retrieval.  
