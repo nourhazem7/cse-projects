@@ -1,0 +1,19 @@
+# Embedded Systems Escape Room Station
+
+Developed a complete embedded systems station as part of an escape room scenario in an
+Embedded Systems Architecture course. The project was implemented across multiple milestones,
+covering microcontroller setup, hardware fabrication, system modeling, and full software–hardware
+integration.
+
+The system is built around an RP2040-based microcontroller and implements structured embedded
+control logic using the Pico SDK. Custom drivers were developed for sensors and actuators following
+best practices and proper abstraction layers. The station logic is governed by a state-based model
+supporting concurrency, hierarchy, and robust error handling.
+
+The final implementation integrates all sensors and actuators into a fully functional physical
+station, ensuring reliable real-time behavior, correct timing, and stable operation according to
+the escape room scenario. The project includes complete hardware enclosure design, organized
+wiring, calibrated components, and safe power distribution suitable for repeated demonstrations.
+
+📂 **Project Files (All Milestones – Code, Reports, Videos):**  
+[https://drive.google.com/drive/folders/1fJORXtJAomRTC7-0BG8aNTH04QKQxcDL?usp=sharing]
