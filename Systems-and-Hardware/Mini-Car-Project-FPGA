@@ -1,2 +1,5 @@
 Developed a mini autonomous car system using Quartus and ModelSim with Verilog code for FPGA programming. 
 Integrated sensors and motors to control movement and implemented the hardware-software interface through embedded systems logic. 
+
+## Project Files
+📦 [Download Project ZIP](../ZIP-Files/MiniCarProject.zip)
