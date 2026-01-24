@@ -1,0 +1,15 @@
+# CampusConnect – Full-Stack Web Application
+
+Developed a full-stack web application designed to support campus-related activities and interactions.
+Implemented both the backend and frontend with a clear separation of concerns, enabling real-time data
+handling and dynamic user interactions.
+
+The backend manages application logic, data storage, and API endpoints, while the frontend delivers
+a responsive and user-friendly interface with a focus on usability and modern UI/UX principles.
+The application runs locally as a complete website and supports real data workflows.
+
+This project was developed collaboratively and version-controlled using Git, with extensive commit
+history reflecting iterative development, testing, and feature integration.
+
+🔗 **Project Repository:**  
+https://github.com/Advanced-Computer-Lab-2025/CampusConnect1.git
