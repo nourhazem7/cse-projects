@@ -1,0 +1,14 @@
+# Tomasulo Algorithm Simulator (Microprocessors)
+
+Developed a GUI-based simulator for the Tomasulo dynamic scheduling algorithm as part of a Microprocessors course.
+The simulator executes MIPS-like assembly instructions cycle by cycle, visualizing instruction issue, execution,
+and write-back while tracking reservation stations, buffers, register files, cache state, and the common data bus.
+
+Implemented support for floating-point and integer operations, load/store instructions, and branches without
+branch prediction. The simulator correctly handles RAW, WAR, and WAW data hazards, address conflicts, and
+simultaneous write-back scenarios. Cache behavior is modeled with configurable cache size, block size, hit latency,
+and miss penalty, considering compulsory and conflict misses for data memory.
+
+Users can configure instruction latencies, reservation station sizes, buffer capacities, and initial register
+values before simulation. The project emphasizes accurate modeling of instruction-level parallelism, pipeline
+behavior, and memory hierarchy interactions using a clear, table-based GUI representation.
