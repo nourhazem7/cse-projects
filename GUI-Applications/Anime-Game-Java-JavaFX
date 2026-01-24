@@ -1,1 +1,4 @@
-Created a 2D interactive game using Java and JavaFX, simulating anime-style character battles. Applied object-oriented programming for structure and scalability, with GUI components and event handling for gameplay logic.  
+Created a fully playable 2D desktop game using Java and JavaFX.
+Implemented core game logic (state management, combat mechanics, and event handling)
+alongside the graphical user interface within a single application architecture.
+Applied object-oriented design principles to ensure modularity, scalability, and maintainability.
