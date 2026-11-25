@@ -1,6 +1,6 @@
 # CSE Projects — Nour Hazem Mohsen
 
-A collection of software and hardware projects built during my Computer Science Engineering degree at the **German University of Cairo**. Spans database internals, full-stack web, embedded systems, hardware simulation, and OS-level programming.
+A collection of software and hardware projects built during my Computer Science Engineering degree at the **German University in Cairo**. Spans database internals, full-stack web, embedded systems, hardware simulation, and OS-level programming.
 
 ---
 
